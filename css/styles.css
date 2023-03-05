@@ -1,3 +1,11 @@
 navbar img {
     width: 80px;
 }
+
+#footer a {
+
+    background: #111111;
+    
+    color: #fafafa;
+
+}
