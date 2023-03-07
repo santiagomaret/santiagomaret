@@ -2,6 +2,20 @@
     width: 80px;
 }
 
+.btn-portfolio {
+
+    background-color: #C70039;
+    color: #fafafa;
+
+}
+
+.btn-portfolio:hover{
+
+    background-color: #FF5733;
+
+
+}
+
 #main .carousel-inner img {
 
     max-height: 70vh;
@@ -33,6 +47,15 @@
 
     height: 100%;
 
+}
+
+#unla {
+    background-color: #111111;
+    color: #fafafa;
+}
+
+#unla img {
+    max-width: 100%;
 }
 
 
